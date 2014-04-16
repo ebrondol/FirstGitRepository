@@ -1,4 +1,0 @@
-# New file in order to understand branches
-# Modified existing file in order to understand branches
-# Modified existing file in order to understand branches2
-# Modified existing file in order to understand CONFLICT among branches
